@@ -1,4 +1,4 @@
-!['profile'](https://github.com/halltape/HalltapePassBot/raw/main/pics/github_jpg.jpg)
+!['profile'](https://github.com/halltape/halltape/blob/main/jpg/github_jpg.jpg)
 
 **Hi! I'm Eugene!**
 
