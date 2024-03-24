@@ -5,9 +5,9 @@
 Hi, my name is Eugene but you can also call me *Evgeny or Jim*. I work with data and everything related to it as a data engineer. I also enjoy creating projects based on telegram bots. One of such projects you can see at the link below. If you have any questions, feel free to message me on telegram.
 
 ### Check out my projects:
+- [HalltapeETLPipeline](https://github.com/halltape/HalltapePassBot) - ETL Pipeline
 - [HallTapePassBot](https://github.com/halltape/HalltapePassBot) - Telegram bot for password generation and verification
 - [School21Guide](https://github.com/halltape/C) - A special guide for School 21 students.
-- [Data Engineering](https://github.com/halltape/data-engineering) - This is what i'm currently working on
 ***
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
