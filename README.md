@@ -12,7 +12,8 @@ Recently, we launched a [Bootcamp for Data Engineers](https://roadmappers.ru.tun
 
 
 ### Check out my Big Data projects:
-[Bootcamp for Data Engineers](https://roadmappers.ru.tuna.am/#top)
+[Bootcamp for Data Engineers](https://roadmappers.ru.tuna.am/#top) - Bootcamp for Data Engineers
+
 [Data Engineering Roadmap](https://halltape.github.io/HalltapeRoadmapDE/)- A special guide how to become a data engineer
 
 
