@@ -7,7 +7,7 @@ I’m a Data Engineer passionate about helping others break into the field.
 I run a [Telegram channel](https://t.me/halltape_data) where I share insights, tips, and resources on becoming a data engineer.
 I’m also the founder of the [Data Engineering Roadmap](https://halltape.github.io/HalltapeRoadmapDE/),
 a structured guide that helps aspiring engineers navigate their learning journey.
-Recently, we launched a [Bootcamp for Data Engineers](https://roadmappers.ru.tuna.am/#top), where participants can master the essential tools, gain hands-on experience, and land their long-awaited job offer.
+Recently, we launched a [Bootcamp for Data Engineers](https://roadmappers.ru), where participants can master the essential tools, gain hands-on experience, and land their long-awaited job offer.
 
 
 
